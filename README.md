@@ -3,7 +3,7 @@
 The thesis is written in Polish.
 
 ## Title
-The infrastructure for time and kernel profiling for Mimiker operatingsystem
+The infrastructure for time and kernel profiling for Mimiker operating system
 
 ## Abstract
 In every fast-growing system like Mimiker, there comes the need to optimize it.  To do so, you need the right tool to measure the system's performance.
